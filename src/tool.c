@@ -8,6 +8,7 @@
 #include "tek.h"
 
 static const char *STUDENT_SENTENCES[] = {
+	"kawabangua",
 	"Jai créer ma première branche§§§§§",
 	"Ça compile bien sur mon pc",
     "Quoi ? Fallait compiler avec les flags ?",
