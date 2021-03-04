@@ -8,7 +8,8 @@
 #include "tek.h"
 
 static const char *STUDENT_SENTENCES[] = {
-    "Ça compile bien sur mon pc",
+	"Jai créer ma première branche§§§§§",
+	"Ça compile bien sur mon pc",
     "Quoi ? Fallait compiler avec les flags ?",
     "C'est quoi valgrind ?",
     "J'ai oublié de m'inscrire au bootstrap",
